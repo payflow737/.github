@@ -39,10 +39,10 @@ Three specialized agents (claimant, executor, safety) run on **Google ADK + Gemi
 
 | Repo | Role | Stack |
 |---|---|---|
-| [`payflow-frontend`](https://github.com/park-song-jungyujin/payflow-frontend) | Approval dashboard, natural-language settlement filters | Next.js / TypeScript, Cloud Run |
-| [`payflow-backend`](https://github.com/park-song-jungyujin/payflow-backend) | Orchestration, matching, approval gate, PayPal Payouts | FastAPI / Python, Cloud Run |
-| [`payflow-agent`](https://github.com/park-song-jungyujin/payflow-agent) | Claimant / executor / safety agents | Google ADK / Python, Cloud Run |
-| [`payflow-docs`](https://github.com/park-song-jungyujin/payflow-docs) | Shared schema contract, architecture rules, working docs | — |
+| [`payflow-frontend`](https://github.com/payflow737/payflow-frontend) | Approval dashboard, natural-language settlement filters | Next.js / TypeScript, Cloud Run |
+| [`payflow-backend`](https://github.com/payflow737/payflow-backend) | Orchestration, matching, approval gate, PayPal Payouts | FastAPI / Python, Cloud Run |
+| [`payflow-agent`](https://github.com/payflow737/payflow-agent) | Claimant / executor / safety agents | Google ADK / Python, Cloud Run |
+| [`payflow-docs`](https://github.com/payflow737/payflow-docs) | Shared schema contract, architecture rules, working docs | — |
 
 `payflow-docs` is pulled into the other three repos as a git submodule so the schema contract and rules stay in sync across the polyrepo.
 
