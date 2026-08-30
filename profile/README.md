@@ -64,4 +64,4 @@ Three specialized agents (claimant, executor, safety) run on **Google ADK + Gemi
 
 ## Status
 
-🚧 Active development — submission deadline **2026-09-01 09:00 KST**. See each repo's README for setup instructions.
+🚧 Submission deadline **2026-09-01 09:00 KST**. For run instructions, see the [`payflow-backend`](https://github.com/payflow737/payflow-backend) repo's README.
