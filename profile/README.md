@@ -58,9 +58,9 @@ Three specialized agents (claimant, executor, safety) run on **Google ADK + Gemi
 
 | Track | Owner | Scope |
 |---|---|---|
-| Claimant experience | 정유진 | Slack intake → receipt parsing → claim confirmation |
-| Executor experience | 박수현 | Matching → settlement dashboard → approval cards |
-| Money & safety | 송재훈 | Approval tokens, payout gate, PayPal integration, infra |
+| Claimant experience | Yujin Jung | Slack intake → receipt parsing → claim confirmation |
+| Executor experience | Suhyun Park | Matching → settlement dashboard → approval cards |
+| Money & safety | Jaehun Song | Approval tokens, payout gate, PayPal integration, infra |
 
 ## Status
 
